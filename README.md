@@ -13,7 +13,7 @@ Bu projenin amacı, akıllı elektrik şebekelerindeki (Smart Grid) güç denges
 ---
 
 ## 📊 2. Veri Seti Açıklaması ve Keşifsel Veri Analizi (EDA)
-Kullanılan veri seti, **Decentral Smart Grid Control (DSGC)** simülasyonundan elde edilmiştir. 1 üretici ve 3 tüketici düğümünden (node) oluşan bir yıldız mimarisine dayanmaktadır. Toplam **10.000 satır** ve **13 öznitelik** barındırır.
+Kullanılan veri seti, [**Decentral Smart Grid Control (DSGC)**](https://archive.ics.uci.edu/dataset/471/electrical+grid+stability+simulated+data) simülasyonundan elde edilmiştir. 1 üretici ve 3 tüketici düğümünden (node) oluşan bir yıldız mimarisine dayanmaktadır. Toplam **10.000 satır** ve **13 öznitelik** barındırır.
 * **Problem Türü:** İkili Sınıflandırma
 * **Hedef Değişken:** `stabf` 
 

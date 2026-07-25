@@ -83,7 +83,7 @@ Optimize edilmiş Random Forest modelinin test verisi üzerindeki performansı:
 
 ---
 
-## 🧠 7. Explainable AI: SHAP Analizi (Bonus)
+## 🧠 7. Explainable AI: SHAP Analizi
 * **Mekanizma:** Oyun Teorisindeki Shapley Değerlerine dayanan SHAP, kara kutu olan modeli yorumlanabilir hale getirir.
 * **Grafik Okuması:** Kırmızı noktalar "yüksek", mavi noktalar "düşük" değeri gösterir. Üretici ve tüketicilerin reaksiyon süreleri (`tau`) arttıkça (kırmızı), model doğrudan negatif yöne (0 = Kararsız) tahmin yapmaktadır.
 

@@ -110,4 +110,4 @@ Optimize edilmiş Random Forest modelinin test verisi üzerindeki performansı:
 4. Jupyter Notebook üzerinden `Makine_Ogrenmesi_Final_Odevi.ipynb` dosyasını açarak hücreleri sırasıyla çalıştırın.
 
 ---
-**Hazırlayan:** Aldy Muardi
+**Hazırlayan:** [Aldy Muardi](https://www.linkedin.com/in/aldymuardi/)
